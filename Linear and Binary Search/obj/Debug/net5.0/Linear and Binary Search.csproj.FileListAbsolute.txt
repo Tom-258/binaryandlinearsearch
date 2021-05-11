@@ -1,0 +1,15 @@
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/bin/Debug/net5.0/Linear and Binary Search.deps.json
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/bin/Debug/net5.0/Linear and Binary Search.runtimeconfig.json
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/bin/Debug/net5.0/Linear and Binary Search.runtimeconfig.dev.json
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/bin/Debug/net5.0/Linear and Binary Search.dll
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/bin/Debug/net5.0/ref/Linear and Binary Search.dll
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/bin/Debug/net5.0/Linear and Binary Search.pdb
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.csprojAssemblyReference.cache
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.AssemblyInfoInputs.cache
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.AssemblyInfo.cs
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.csproj.CoreCompileInputs.cache
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.dll
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/ref/Linear and Binary Search.dll
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.pdb
+/Users/thomasstanger/RiderProjects/Linear and Binary Search/Linear and Binary Search/obj/Debug/net5.0/Linear and Binary Search.genruntimeconfig.cache
